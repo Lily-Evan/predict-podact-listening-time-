@@ -26,7 +26,7 @@ Public Score: 52.92593
 It was a very simple approach without much tuning or preprocessing.
 
 🔸 During the Competition
-I created a version called "V1 sto redme", which became my best official submission:
+I created a version called "V1 ", which became my best official submission:
 
 Public Score: 12.76847
 
